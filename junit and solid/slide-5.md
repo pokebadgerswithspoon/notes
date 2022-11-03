@@ -1,8 +1,8 @@
-# Agility for business
+# But why?
 
 [prev](./slide-4.md) / [next](./slide-6.md)
 
-## Business is on our side
+## Agility for business
 
 In terms of organizational processes, Agile working patterns provide a framework for adapting to change. The Agile community has also developed technical tools and patterns that are helpful when developing software in a frequently changing environment, such as test-driven development (TDD) and refactoring.
 
